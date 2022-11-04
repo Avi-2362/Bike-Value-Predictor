@@ -5,6 +5,6 @@ The application uses a preloaded bikes data which spans across 30k plus data sam
 23 companies and multiple features to decide the best possible price
 
 Tech Stack:
-   Python 3.9 for logic development
-   Streamlit for UI integrations
-   share.streamlit.io for hosting
+ - Python 3.9 for logic development
+ - Streamlit for UI integrations
+ - share.streamlit.io for hosting
